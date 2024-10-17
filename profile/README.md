@@ -8,7 +8,7 @@ Standard-Corp.AI is dedicated to delivering cutting-edge, practical AI solutions
 | Repo | Description | Link |
 | --- | --- | --- |
 | SagittariusAI | A kind of AI voice translator. | [Visit](https://github.com/StandardServe-AI/SagittariusAI) |
-| AndromedaAI | LLM Travel generator | [Visit](=https://github.com/StandardServe-AI/AndromedaAI) |
+| AndromedaAI | LLM Travel generator | [Visit](https://github.com/StandardServe-AI/AndromedaAI) |
 
 ## 🌈 Contribution guidelines
 
