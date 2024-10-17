@@ -5,8 +5,8 @@ Standard-Corp.AI is dedicated to delivering cutting-edge, practical AI solutions
 
 ## 🍿 Quick navigation
 
-[![Readme Card](http://43.134.109.106:9000/api/pin/?username=StandardServe-AI&repo=SagittariusAI&theme=vue)](https://github.com/StandardServe-AI/SagittariusAI)
-[![Readme Card](http://43.134.109.106:9000/api/pin/?username=StandardServe-AI&repo=AndromedaAI&theme=swift)](https://github.com/StandardServe-AI/AndromedaAI)  
+[![Readme Card](http://43.134.109.106:9000/?username=StandardServe-AI&repo=SagittariusAI&theme=vue)](https://github.com/StandardServe-AI/SagittariusAI)
+[![Readme Card](http://43.134.109.106:9000/?username=StandardServe-AI&repo=AndromedaAI&theme=swift)](https://github.com/StandardServe-AI/AndromedaAI)  
 
 ## 🌈 Contribution guidelines
 
