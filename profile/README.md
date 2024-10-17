@@ -5,9 +5,10 @@ Standard-Corp.AI is dedicated to delivering cutting-edge, practical AI solutions
 
 ## 🍿 Quick navigation
 
-[![Readme Card](http://43.134.109.106:9000/pin/?username=hinczhang&repo=SagittariusAI&theme=vue)](https://github.com/StandardServe-AI/SagittariusAI)
-[![Readme Card](http://43.134.109.106:9000/pin/?username=hinczhang&repo=AndromedaAI&theme=swift)](https://github.com/StandardServe-AI/AndromedaAI)  
-[![Readme Card](http://43.134.109.106:9000/pin/?username=hinczhang&repo=NEW_CVSITE&theme=swift)](https://github.com/hinczhang/NEW_CVSITE)
+| Repo | Description | Link |
+| --- | --- | --- |
+| SagittariusAI | A kind of AI voice translator. | [Visit](https://github.com/StandardServe-AI/SagittariusAI) |
+| AndromedaAI | LLM Travel generator | [Visit](=https://github.com/StandardServe-AI/AndromedaAI) |
 
 ## 🌈 Contribution guidelines
 
